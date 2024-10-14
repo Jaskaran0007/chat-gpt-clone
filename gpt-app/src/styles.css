@@ -1,0 +1,49 @@
+.header {
+    text-align: center; 
+  }
+  
+  .headerText {
+    margin-bottom: 10px; 
+  }
+  
+  .logoImage {
+    width: 40px; 
+    height: 40px; 
+    margin: 10px; 
+    border-radius: 50%;
+  }
+  
+  .headerPara {
+    margin-top: 10px; 
+    max-width: 400px; 
+    margin-left: auto; 
+    margin-right: auto; 
+  }
+  .formdiv {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    padding: 20px; 
+  }
+  
+  .textForm {
+    width: 400px; 
+    padding: 10px; 
+    border-radius: 10px; 
+    border: 1px solid #ccc; 
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    background-color: #4CAF50; 
+    color: #fff; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 10px; 
+    cursor: pointer; 
+  }
+  
+  .button:hover {
+    background-color: #3e8e41; 
+  }
+  
